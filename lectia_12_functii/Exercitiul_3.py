@@ -8,5 +8,7 @@ Utilizați list comprehension în proces.
 
 def task_3():
    return [x for x in range(1,11) if x % 2 == 1]
+
 print(task_3())
+
 # CODUL TĂU VINE MAI SUS:
