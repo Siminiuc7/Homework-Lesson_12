@@ -1,9 +1,0 @@
-"""
-Task: Creați o funcție cu numele "task_1" care va returna o listă cu numerele de la 1 la 10
-Utilizați list comprehension.
-"""
-from math import factorial
-
-# CODUL TĂU VINE MAI JOS:
-
-# CODUL TĂU VINE MAI SUS:
